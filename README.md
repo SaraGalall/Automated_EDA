@@ -10,7 +10,7 @@
 1) Importing necessary libraries
 2) Loading different types of data (CSV or Excel)
 3) Data Preprocessing
-4) Data visualization (Scatter plot, Pie plot, Bar plot, Histogram)
+4) Data visualization (Pie plot, Bar plot, Histogram)
 5) Applying the automated EDA tool on the data, using all the functions that we have previously built
 
 
